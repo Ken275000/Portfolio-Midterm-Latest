@@ -1,0 +1,22 @@
+[
+    {
+      "title": "Marc Edlin Pasquin",
+      "imageSrc": "skills/marc.png",
+      "role": "Front End & Back End Developer",
+      "socials": {
+        "facebook": {
+          "url": "https://www.facebook.com/sijix.x/",
+          "icon": "skills/Facebook-logo.png"
+        },
+        "github": {
+          "url": "https://github.com/marcPasquin",
+          "icon": "skills/Github-logo.png"
+        },
+        "insta": {
+          "url": "https://www.instagram.com/sijjxx?igsh=ZGUzMzM3NWJiOQ==",
+          "icon": "skills/Instagram.png"
+        }
+      }
+    }
+  ]
+  

@@ -1,0 +1,26 @@
+[
+  {
+    "title": "LUCKY 9",
+    "imageSrc": "projects/lucky9.png",
+    "description": "Lucky 9 is a captivating card game designed for 1 to 3 players.",
+    "skills": ["Java", "AWT", "Swing"],
+    "demo": "https://drive.google.com/file/d/1HFqEEkLsO-7wKB1KdjizwyqBefirqRIS/view?usp=sharing",
+    "source": "https://github.com/marcPasquin/Lucky9"
+  },
+  {
+    "title": "Payroll System",
+    "imageSrc": "projects/payroll.png",
+    "description": "We made a payroll system for our final project in Integrated Programming and Technologies 1.",
+    "skills": ["PHP", "PhpMyAdmin", "HTML", "Mysql"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Gerandy/PHP-PROJECT"
+  },
+  {
+    "title": "Kiosk",
+    "imageSrc": "projects/kiosk.png",
+    "description": "In this project, I was assigned the task of creating the landing page and login page.",
+    "skills": ["JavaScript", "HTML", "CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Sky-ana/Group-Project"
+  }
+]

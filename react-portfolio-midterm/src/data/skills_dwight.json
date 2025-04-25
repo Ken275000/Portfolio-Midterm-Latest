@@ -1,0 +1,22 @@
+[
+    {
+      "title": "Dwight Aaron Rivera",
+      "imageSrc": "skills/dwight.png",
+      "role": "Front End & Back End Developer",
+      "socials": {
+        "facebook": {
+          "url": "https://www.facebook.com/zxc.dwight",
+          "icon": "skills/Facebook-logo.png"
+        },
+        "github": {
+        "url": "https://github.com/dwight",
+        "icon": "skills/Github-logo.png"
+      },
+      "insta": {
+        "url": "https://www.instagram.com/Dwightxrivera/?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBEwNnBreUJockY0VTRDeHFyYgEeCMyCtThrAdImXBhg5dw2LddnqVR8nQ133UHBrhyLbijmKy0-6ljhUh3VgIo_aem_WCK5zwd85Ed1mR2XG4cD2Q#",
+        "icon": "skills/Instagram.png"
+        }
+      }
+    }
+]
+  

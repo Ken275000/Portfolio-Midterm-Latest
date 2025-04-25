@@ -1,0 +1,27 @@
+[
+    {
+      "role": "Java",
+      "startDate": "2023",
+      "endDate": "2024",
+      "experiences": ["Worked on a card game for our final", 
+      "Worked together with my groupmate to improve the design and mechanics of the game"],
+      "imageSrc": "history/java.png"
+    },
+    {
+      "role": "C++",
+      "startDate": "2024",
+      "endDate": "2025",
+      "experiences": ["Worked on simple game", 
+      "Designed the flow of the game"],
+      "imageSrc": "history/cpp-logo.png"
+    },
+    {
+      "role": "PhpMyAdmin",
+      "startDate": "2023",
+      "endDate": "present",
+      "experiences": ["Worked on our Final project",
+        "Assisted create UI components"],
+      "imageSrc": "history/phpAdminlogo2.png"
+    }
+  ]
+  

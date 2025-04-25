@@ -1,0 +1,21 @@
+[
+  {
+    "title": "Ken Clarence R. Orosco",
+    "imageSrc": "skills/ken.png",
+    "role": "Front End & Back End Developer",
+    "socials": {
+      "facebook": {
+        "url": "https://www.facebook.com/ken.orosco.927",
+        "icon": "skills/Facebook-logo.png"
+      },
+      "github": {
+        "url": "https://github.com/Ken275000",
+        "icon": "skills/Github-logo.png"
+      },
+      "insta": {
+        "url": "https://www.instagram.com/kenorosco0/?next=%2F",
+        "icon": "skills/Instagram.png"
+      }
+    }
+  }
+]
