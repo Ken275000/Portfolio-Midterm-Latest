@@ -10,14 +10,14 @@
       "role": "JavaScript",
       "startDate": "2022",
       "endDate": "Present",
-      "experiences": ["Worked on Windows 11", "Designed the control panel"],
+      "experiences": ["Worked on Web Design", "Created Simple projects"],
       "imageSrc": "history/JavaScript-logo.png"
     },
     {
       "role": "C++",
       "startDate": "2022",
       "endDate": "2024",
-      "experiences": ["Worked on component library", "Helped create UI components"],
+      "experiences": ["Worked on Data Structures and Algorithms for a final project", "Helped on Arduino project"],
       "imageSrc": "history/cpp-logo.png"
     }
   ]
